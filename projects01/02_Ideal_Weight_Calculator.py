@@ -1,5 +1,6 @@
 """
-Calculate the ideal weight of a person based on their gender and their height using the well-known Lorentz formula.
+The next program will Calculate the ideal weight of a person based on their gender and 
+their height using the well-known Lorentz formula.
 """
 
 import tkinter as tk
