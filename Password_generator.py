@@ -1,3 +1,7 @@
+"""
+This program will generate a random password between 8 and 16 characters. The user can choose the options they want to include, 
+such as digits, uppercase letters, lowercase letters, and special characters, as well as the length.
+"""
 import tkinter as tk
 import random
 

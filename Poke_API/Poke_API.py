@@ -1,5 +1,5 @@
 """
-This program implement an HTTP call to a Poke API and show Pokemon, name and type
+This program implement an HTTP call to a Poke API and show Pokemon, name and type.
 """
 
 # Libraries

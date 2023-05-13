@@ -1,6 +1,7 @@
 """
-Write a program that takes text and transforms natural language into "hacker language" (actually known as "leet" or "1337"). This language is characterized by substituting alphanumeric 
-characters. Use this table (https://www.gamehouse.com/blog/leet-speak-cheat-sheet/) with the alphabet and numbers in "leet".
+Write a program that takes text and transforms natural language into "hacker language" (actually known as "leet" or "1337"). 
+This language is characterized by substituting alphanumeric characters. Use this table (https://www.gamehouse.com/blog/leet-speak-cheat-sheet/) 
+with the alphabet and numbers in "leet".
 """
 
 # Libraries
