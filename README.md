@@ -1,4 +1,6 @@
-# MY PROJECTS 
+# MY CHALLENGES 
+
+Here I have projects that I have been doing in Python.
 
 | Number    | Name project      | Creation date | Last modified date |
 |:---------:|:------------------|:--------------|:-------------------|
