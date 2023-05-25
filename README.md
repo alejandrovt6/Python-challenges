@@ -1,4 +1,4 @@
-# MY CHALLENGES 
+# MY PROJECTS 
 
 Here I have projects that I have been doing in Python.
 
