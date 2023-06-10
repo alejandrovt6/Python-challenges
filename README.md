@@ -9,4 +9,4 @@ Projects created in Python during my learning.
 | 03        | Hacker language        | Completed      |
 | 04        | Poke API               | Completed      |
 | 05        | Password generator     | Completed      |
-| 06        | Bank teller     | In progress      |
+| 06        | Bank teller     | Completed      |
