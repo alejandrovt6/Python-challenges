@@ -98,7 +98,7 @@ def display_pokemon_image(name, image_url):
 window = tk.Tk()
 window.title("Pokedex")
 
-window.iconbitmap('pokeball.ico')
+window.iconbitmap('icons/pokeball.ico')
 
 window.geometry("400x400")
 
